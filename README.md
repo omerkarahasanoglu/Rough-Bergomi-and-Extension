@@ -24,6 +24,7 @@ This repository contains the implementation and calibration of the **Rough Bergo
 ## Thesis Information
 
 **Thesis Name:** Modeling Rough Volatility with Regime Switching in the Rough Bergomi Framework
+
 **Author:** Ömer Karahasanoğlu  
 **Institution:** University of Edinburgh  
 **Program:** Computational Mathematical Finance MSc  
